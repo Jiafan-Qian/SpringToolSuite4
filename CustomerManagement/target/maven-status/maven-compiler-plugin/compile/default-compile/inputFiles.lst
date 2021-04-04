@@ -1,0 +1,9 @@
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/controller/CustomerController.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/dao/ICustomerDAO.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/service/ICustomerService.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/entity/Customer.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/config/AppInitializer.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/dao/ICustomerDAOImpl.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/config/WebMvcConfig.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/service/ICustomerServiceImpl.java
+/Users/jiafan/SpringToolSuite4/CustomerManagement/src/main/java/com/classboxes/customermanagement/config/AppContext.java
